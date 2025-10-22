@@ -130,6 +130,6 @@ CoreMind is a prototype of **next-generation Siri** capabilities that I want to 
 ---
 
 ## 🧑‍💻 Author
-**Shreyas Battula** — AI/ML Engineer passionate about multimodal reasoning, privacy-preserving AI, and on-device intelligence.
+**Prithvi Elancherran** — AI/ML Engineer passionate about multimodal reasoning, privacy-preserving AI, and on-device intelligence.
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/shreyas-battula) | [Portfolio](https://github.com/ShreyasB02)
+📫 Reach me: [LinkedIn](https://linkedin.com/in/prithvielancherran) | [Portfolio](https://github.com/PrithviELancherran)
